@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning computer science on the University of Puerto Rico in Bayamon
 - 💞️ I’m looking to collaborate on projects and share with you my portfolio
 - 📫 Feel free to contact me directly at gabynavarro99@gmail.com
-- 
+
 
 <!---
 GabrielNavarro-Hub/GabrielNavarro-Hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
